@@ -4,6 +4,7 @@
  * and open the template in the editor.
  *
  *Line Edit for commit #3
+ *commit changes in pull
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
